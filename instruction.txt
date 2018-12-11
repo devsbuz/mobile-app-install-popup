@@ -1,0 +1,14 @@
+add the following script before </head> :
+
+<script
+     type="text/javascript"
+     src="http://www.appsgeyser.com/js/appsgeyser_redirect_page.js"></script>
+     <script type="text/javascript">
+         appsgeyserRedirect.init({
+           url: "http://app.appsgeyser.com/8284332/kech%20map",
+             alertFrequency: "once"
+            }).redirectPage();
+     </script>
+
+
+and change sample links with yours
